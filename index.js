@@ -1,0 +1,38 @@
+
+module.exports = {
+
+  grinning: '😀',
+  grin: '😁',
+  joy: '😂',
+  smiley: '😃',
+  smile: '😄',
+  sweat_smile: '😅',
+  laughing: '😆',
+  innocent: '😇',
+  smiling_imp: '😈',
+  imp: '👿',
+  wink: '😉',
+  blush: '😊',
+  relaxed: '☺',
+  yum: '😋',
+  relieved: '😌',
+  heart_eyes: '😍',
+
+  sunglasses: '😎',
+  smirk: '😏',
+  neutral_face: '😐',
+  expressionless: '😑',
+  unamused: '😒',
+  sweat: '😓',
+  pensive: '😔',
+  confused: '😕',
+  confounded: '😖',
+  kissing: '😗',
+  kissing_heart: '😘',
+  kissing_smiling_eyes: '😙',
+  kissing_closed_eyes: '😚',
+  stuck_out_tongue: '😛',
+  stuck_out_tongue_winking_eye: '😜',
+  stuck_out_tongue_closed_eyes: '😝',
+
+};

@@ -1,0 +1,16 @@
+{
+  "name": "clemoji",
+  "version": "0.0.1",
+  "description": "A super simple way to use emojis in node using Emoji-Cheat-Sheet's aliases",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garrettjoecox/clemoji.git"
+  },
+  "author": "Garrett Cox <garrettjcox@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrettjoecox/clemoji/issues"
+  },
+  "homepage": "https://github.com/garrettjoecox/clemoji"
+}
